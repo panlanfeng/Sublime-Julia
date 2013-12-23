@@ -31,7 +31,7 @@
                     "suppress_echo": {"osx": false,
                                       "linux": false,
                                       "windows": false},
-                    "syntax": "Packages/SublimeJulia/Syntax/Julia.tmLanguage"
+                    "syntax": "Packages/Julia/Julia.tmLanguage"
                     }
                 }
             ]   
